@@ -1,0 +1,4 @@
+pip
+python
+pygame
+neat-python
